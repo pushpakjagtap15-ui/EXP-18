@@ -1,4 +1,4 @@
-Here’s a **theory‑focused README file** for *Experiment 18: Real‑World and Interactive Visualization*. It’s structured like your earlier ones, without code, and emphasizes the concepts and interpretation:
+
 
 ---
 
